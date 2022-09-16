@@ -3,8 +3,8 @@ import requests
 import smtplib
 import time
 
-your_email = "jomelsanpedro14@gmail.com"
-your_password = "ilkbbhbmgozdwwgf"
+your_email = "put your email here make sure its gmail"
+your_password = "put your app password here"
 
 # your latitute and longitude
 mylat = 15.611449
